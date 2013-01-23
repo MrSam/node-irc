@@ -9,16 +9,16 @@
     } ],
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/martynsmith/node-irc"
+        "url" : "http://github.com/MrSam/node-irc"
     },
     "bugs" : {
         "mail" : "martyn@dollyfish.net.nz",
-        "url" : "http://github.com/martynsmith/node-irc/issues"
+        "url" : "http://github.com/MrSam/node-irc/issues"
     },
     "main" : "lib/irc",
     "engines" : { "node" : ">=0.4.0" },
     "licenses" : [ {
         "type" : "GPL",
-        "url" : "http://github.com/martynsmith/node-irc/raw/master/COPYING"
+        "url" : "http://github.com/MrSam/node-irc/raw/master/COPYING"
     } ]
 }
